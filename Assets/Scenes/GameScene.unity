@@ -1159,7 +1159,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Appuie sur ESPACE pour commencer
+  m_Text: Press Space to start
 --- !u!222 &824905662
 CanvasRenderer:
   m_ObjectHideFlags: 0
